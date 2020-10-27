@@ -1,6 +1,8 @@
 package pgdp.intro;
 
-public class HelloWorld extends MiniJava {
+import static pgdp.MiniJava.*;
+
+public class HelloWorld {
 
 	public static void main(String[] args) {
 
